@@ -1,2 +1,2 @@
 # day17
-fetch API
+Implement the rest contries and open weather map APLs using fetch() APLI
